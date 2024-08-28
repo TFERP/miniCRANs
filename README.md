@@ -2,6 +2,8 @@
 
 For use when AG's Nexus does not have the package (or package version) that you require.
 
+(You are welcome to fork this repository!)
+
 To create a miniCRAN, first install the `miniCRAN` library. Then, run the following:
 
 ```
